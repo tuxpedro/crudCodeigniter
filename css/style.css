@@ -1,0 +1,17 @@
+#btn-cadastrar {
+	width: auto !important;
+	margin: 0 0 0 46%;
+}
+
+input {
+	width: 100% !important;
+}
+
+body form {
+	margin: 0% 5% 5% 5% !important;
+	padding: 0% 2% 0% 2% !important;
+}
+
+#blog-footer {
+	text-align: center;
+}
