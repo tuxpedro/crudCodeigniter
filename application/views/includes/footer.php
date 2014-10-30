@@ -1,4 +1,4 @@
-<div class="blog-footer">
+<div id="blog-footer" class="blog-footer">
 	<p>
 		&copy; by Pedro
 	</p>

@@ -32,7 +32,7 @@ echo "<br />";
 echo "<br />";
 
 //btn submit
-echo form_submit(array('name' => 'cadastrar', 'class' => 'btn btn-primary'), 'Cadastrar');
+echo form_submit(array('name' => 'cadastrar', 'id' => 'btn-cadastrar',  'class' => 'btn btn-primary'), 'Cadastrar');
 
 echo form_close();
 echo '</div>';
